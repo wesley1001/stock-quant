@@ -8,6 +8,4 @@ class Stock ():
         self._stockCode = stockCode
         self._start     = start
         self._end       = end
-        pass
-
 
